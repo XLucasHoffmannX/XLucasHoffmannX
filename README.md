@@ -11,4 +11,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 📍 From PR living in Apucarana
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xhoffmannxx/)](https://www.instagram.com/xhoffmannxx/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelucashoffmann@gmail.com)](mailto:henriquelucashoffmann@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-henriquelucashoffmann@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelucashoffmann@gmail.com)](mailto:henriquelucashoffmann@gmail.com)
