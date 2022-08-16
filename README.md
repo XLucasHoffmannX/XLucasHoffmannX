@@ -15,7 +15,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
 <img height="26" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;
-<img height="42" alt="MongoDB" src="https://www.svgrepo.com/show/354248/rabbitmq.svg"> &nbsp;
+<img height="56" alt="MongoDB" src="https://www.svgrepo.com/show/354248/rabbitmq.svg"> &nbsp;
 
 #### Learning: <br>
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
