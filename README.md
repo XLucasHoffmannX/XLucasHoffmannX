@@ -22,6 +22,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
 <img height="26" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
+<img height="26" alt="Php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
