@@ -1,10 +1,13 @@
 # Hey there👋
 
-I'm Lucas Hoffmann 👨‍🇧🇷
+I'm Lucas Hoffmann 👨‍💻🇧🇷
 
-I am a computer science student and beginner programmer and I love learning new technologies. 💻
+I'm a Computer Science student and a software engineer with solid experience in backend and frontend development. I’m passionate about solving real-world problems through technology and constantly seeking to improve code quality, scalability, and performance.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+I enjoy working on challenging projects, mentoring others, and contributing to high-impact solutions. Always open to learning, collaborating, and exploring new tools and architectures.
+
+🚀 Let's build something great together!
+
 
 #### Web Development: <br>
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
