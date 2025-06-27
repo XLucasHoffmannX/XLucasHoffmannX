@@ -18,7 +18,6 @@ I enjoy working on challenging projects, mentoring others, and contributing to h
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
 <img height="26" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;
-<img height="28" alt="RabbitMq" src="https://seeklogo.com/images/R/rabbitmq-logo-25641A76DE-seeklogo.com.png"> &nbsp;
 
 #### Learning: <br>
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
