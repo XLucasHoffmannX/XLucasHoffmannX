@@ -3,11 +3,10 @@
 I'm **Lucas Hoffmann** 👨‍💻🇧🇷  
 Fullstack & Mobile Software Engineer | Computer Science Student  
 
-I'm a passionate developer focused on building **scalable, high-performance applications** — from backend APIs to modern mobile experiences.  
+I'm a passionate developer focused on building **scalable, high-performance applications** — from back-end APIs to modern mobile experiences and front-end development in general.  
 I love solving real-world problems through code, improving system architecture, and creating beautiful, intuitive interfaces.  
 
 🚀 Always exploring new tools, patterns, and architectures.  
-Let’s build something great together!
 
 ---
 
@@ -41,8 +40,8 @@ Let’s build something great together!
 ---
 
 ### 🧠 Learning & Exploring
-- Clean Architecture & Domain-Driven Design (DDD)  
-- Mobile performance optimization & animations (Moti, Reanimated)  
+- Clean Architecture & Domain-Driven Design (DDD)
+- Mobile performance optimization & animations  
 - Automated testing (Jest, Cypress, Detox)  
 - DevOps, CI/CD & containerized environments (Coolify, GitHub Actions)
 
