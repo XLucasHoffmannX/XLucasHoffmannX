@@ -48,25 +48,8 @@ Let’s build something great together!
 
 ---
 
-### 🏗️ Featured Project: **VidBuy**
-**VidBuy** is a marketplace where **fans can purchase personalized video shoutouts** from celebrities.  
-Built with **React Native + Expo** for mobile and **NestJS + PostgreSQL** for backend.  
-
-- ⚡ Modular architecture with **feature-based navigation stacks**  
-- 🎥 Integration with **Mux** for video streaming and playback  
-- 🔒 Secure authentication and wallet system  
-- 🧩 Multilingual support (pt-BR, en, es, fr, de, it)  
-- 🌍 Dynamic pre-launch system via remote feature toggles  
-- 📦 State management with **Zustand** + **TanStack React Query**  
-- 💅 Polished UI/UX using **Moti**, **FlashList**, and responsive design  
-
-> _Currently in active development — focusing on real-time video delivery and user engagement._
-
----
-
 ### 🌍 “Quanto mais eu sei, mais eu sou” 🧠
 
-- 📍 Based in Apucarana, Paraná – Brazil  
 - 🎓 Computer Science & Software Engineering Student  
 - 💬 Open for collaboration and new opportunities  
 
