@@ -1,7 +1,7 @@
 # Hey there 👋
 
 I'm **Lucas Hoffmann** 👨‍💻🇧🇷  
-Fullstack & Mobile Software Engineer | Computer Science Student  
+Fullstack & Software Engineer | Computer Science Student  
 
 I'm a passionate developer focused on building **scalable, high-performance applications** — from back-end APIs to modern mobile experiences and front-end development in general.  
 I love solving real-world problems through code, improving system architecture, and creating beautiful, intuitive interfaces.  
