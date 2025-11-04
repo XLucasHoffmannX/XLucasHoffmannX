@@ -1,34 +1,84 @@
-# Hey there👋
+# Hey there 👋
 
-I'm Lucas Hoffmann 👨‍💻🇧🇷
+I'm **Lucas Hoffmann** 👨‍💻🇧🇷  
+Fullstack & Mobile Software Engineer | Computer Science Student  
 
-I'm a Computer Science student and a software engineer with solid experience in backend and frontend development. I’m passionate about solving real-world problems through technology and constantly seeking to improve code quality, scalability, and performance.
+I'm a passionate developer focused on building **scalable, high-performance applications** — from backend APIs to modern mobile experiences.  
+I love solving real-world problems through code, improving system architecture, and creating beautiful, intuitive interfaces.  
 
-I enjoy working on challenging projects, mentoring others, and contributing to high-impact solutions. Always open to learning, collaborating, and exploring new tools and architectures.
+🚀 Always exploring new tools, patterns, and architectures.  
+Let’s build something great together!
 
-🚀 Let's build something great together!
+---
 
+### 🧩 Main Tech Stack
 
-#### Web Development: <br>
+#### 💻 Web Development
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-<img height="26" alt="Php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
-<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
+<img height="26" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
+<img height="26" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
 <img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img height="26" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
+<img height="26" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="26" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
 <img height="26" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;
 
-#### Learning: <br>
+#### 📱 Mobile Development
+<img height="26" alt="React Native" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
+<img height="26" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg"> &nbsp;
+<img height="26" alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> &nbsp;
+<img height="26" alt="iOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> &nbsp;
+<img height="26" alt="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> &nbsp;
+
+#### ⚙️ Backend & Tools
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
-<img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> &nbsp;
-<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" alt="Mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
-<img height="26" alt="Php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
+<img height="26" alt="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"> &nbsp;
+<img height="26" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> &nbsp;
+<img height="26" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> &nbsp;
+<img height="26" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"> &nbsp;
+<img height="26" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
 
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+---
 
-- 📍 From PR living in Apucarana
+### 🧠 Learning & Exploring
+- Clean Architecture & Domain-Driven Design (DDD)  
+- Mobile performance optimization & animations (Moti, Reanimated)  
+- Automated testing (Jest, Cypress, Detox)  
+- DevOps, CI/CD & containerized environments (Coolify, GitHub Actions)
+
+---
+
+### 🏗️ Featured Project: **VidBuy**
+**VidBuy** is a marketplace where **fans can purchase personalized video shoutouts** from celebrities.  
+Built with **React Native + Expo** for mobile and **NestJS + PostgreSQL** for backend.  
+
+- ⚡ Modular architecture with **feature-based navigation stacks**  
+- 🎥 Integration with **Mux** for video streaming and playback  
+- 🔒 Secure authentication and wallet system  
+- 🧩 Multilingual support (pt-BR, en, es, fr, de, it)  
+- 🌍 Dynamic pre-launch system via remote feature toggles  
+- 📦 State management with **Zustand** + **TanStack React Query**  
+- 💅 Polished UI/UX using **Moti**, **FlashList**, and responsive design  
+
+> _Currently in active development — focusing on real-time video delivery and user engagement._
+
+---
+
+### 🌍 “Quanto mais eu sei, mais eu sou” 🧠
+
+- 📍 Based in Apucarana, Paraná – Brazil  
+- 🎓 Computer Science & Software Engineering Student  
+- 💬 Open for collaboration and new opportunities  
+
+---
+
+### 📬 Connect with me
 
 [![Instagram Badge](https://img.shields.io/badge/-LucasHoffmann-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xhoffmannxx/)](https://www.instagram.com/xhoffmannxx/) 
 [![Gmail Badge](https://img.shields.io/badge/-henriquelucashoffmann@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelucashoffmann@gmail.com)](mailto:henriquelucashoffmann@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-XLucasHoffmannX-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/XLucasHoffmannX)](https://github.com/XLucasHoffmannX)
+[![LinkedIn Badge](https://img.shields.io/badge/-Lucas%20Hoffmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-hoffmann-0435501b6/)](https://www.linkedin.com/in/lucas-hoffmann-0435501b6/)
+
+---
+
+⭐ _“Clean code, real impact.”_
