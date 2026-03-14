@@ -46,12 +46,8 @@ I love solving real-world problems through code, improving system architecture, 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XLucasHoffmannX&theme=github_dark)
 
-<div align="center">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XLucasHoffmannX&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XLucasHoffmannX&theme=github_dark&utcOffset=-3)
-
-</div>
 
 ---
 
